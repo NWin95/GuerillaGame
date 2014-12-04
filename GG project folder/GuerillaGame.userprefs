@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnemyScript.js">
+    <Files>
+      <File FileName="Assets\EnemyScript.js" Line="60" Column="2" />
+      <File FileName="Assets\EnemyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Control\MeleeScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CamScript.js" Line="1" Column="1" />
+      <File FileName="Assets\QuickElevator.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
