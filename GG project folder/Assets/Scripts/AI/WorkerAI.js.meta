@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8e295e17350767f4cab1264db8d29551
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - townCenterScript: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - targ: {instanceID: 0}
+  - resourceTarg: {instanceID: 0}
+  - warehouseTarg: {instanceID: 0}
+  - granaryTarg: {instanceID: 0}
+  - preyScript: {instanceID: 0}
+  - humanObj: {instanceID: 0}
+  - chest: {instanceID: 0}
+  - prop: {instanceID: 0}
+  - logProp: {fileID: 100000, guid: a93bc6374a7471e4bb9b913dfa903ba9, type: 2}
+  - meatProp: {fileID: 100000, guid: 127df77374fca464f95ea0ab7d6029d9, type: 2}
+  - goldProp: {fileID: 100000, guid: 4c390261c507e4f4db5ce8363be6f079, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
